@@ -19,13 +19,13 @@ investment strategy.
 - **Dynamic Visualization**
 - **Easily adjustable features to use with clustering alg**
 
-## Requirements (Necessary libraries)**
+## Requirements (Necessary libraries)
 
 - **numpy**
 - **pandas**
 - **math**
 - **yfinance**
-- **sklearn** >> only Principal Component Analysis is used
+- **sklearn** >> only the Principal Component Analysis function is used
 - **plotly**
 
 ## Instructions
