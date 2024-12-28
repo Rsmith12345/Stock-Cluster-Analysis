@@ -19,6 +19,8 @@ investment strategy.
 - **Dynamic Visualization**
 - **Easily adjustable features to use with clustering alg**
 
+## See Screenshot file for Example Output!
+
 ## Requirements (Necessary libraries)
 
 - **numpy**
